@@ -6,7 +6,9 @@ require (
 	github.com/astaxie/beego v1.12.3
 	github.com/garyburd/redigo v1.6.3
 	github.com/go-sql-driver/mysql v1.6.0
+	github.com/julienschmidt/httprouter v1.2.0
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
+	golang.org/x/net v0.0.0-20210913180222-943fd674d43e
 )
 
 require (
